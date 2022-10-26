@@ -17,7 +17,7 @@
     </div>
 
     <div class="col-xs-12 col-sm-4">
-        <?php dynamic_sidebar('sidebar-2'); ?>
+        <?php dynamic_sidebar('sidebar-1'); ?>
     </div>
 
 </div>
